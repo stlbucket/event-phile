@@ -9,7 +9,7 @@ git clone https://github.com/stlbucket/event-phile.git
 npm install
 ```
 
-you probably need to:
+you might need to:
 
 ```$xslt
 npm install -g knex-migrate
