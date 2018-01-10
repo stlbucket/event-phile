@@ -25,7 +25,7 @@ knex-migrate up --env dev
 ./dev/execute.sh events
 ```
 
-[a link](https://github.com/stlbucket/event-phile/blob/master/src/migrations/005100-fn-add-to-category.js)
+[a function recorded as an event](https://github.com/stlbucket/event-phile/blob/master/src/migrations/005100-fn-add-to-category.js)
 
 
 ```$xslt
