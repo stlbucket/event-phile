@@ -15,6 +15,8 @@ DROP FUNCTION IF EXISTS event_phile.add_to_category(
 `
 
 const upScript = `
+-- this function would really be in another schema
+------------------
 create or replace function event_phile.add_to_category(
   _name text,
   _amount NUMERIC(50,2)
