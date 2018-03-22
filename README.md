@@ -1,7 +1,7 @@
 # event-phile
 a postgraphile plugin to capture designated function calls as re-playable events 
 
-*** this is draft status, at best
+*** just an idea
 
 ```$xslt
 git clone https://github.com/stlbucket/event-phile.git
